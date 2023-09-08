@@ -1,5 +1,4 @@
-# Mrimperfect7.github.io
-<!DOCTYPE html>
+
 <html>
 <head>
     <title>Registration</title>
