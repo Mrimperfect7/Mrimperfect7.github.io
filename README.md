@@ -7,7 +7,7 @@
     <h1>Registration</h1>
     <form id="registration-form">
         <input type="text" id="name" placeholder="Full Name" required>
-        <input type="email" id="email" placeholder="Email" required>
+        <input type="mobile" id="mobile" placeholder="mobile" required>
         <input type="password" id="password" placeholder="Password" required>
         <button type="submit">Register</button>
     </form>
@@ -20,4 +20,3 @@
     <script src="registration.js"></script>
 </body>
 </html>
-theme:Architect
