@@ -1,11 +1,13 @@
 // Initialize Firebase with your Firebase project configuration
 const firebaseConfig = {
-    apiKey: "YOUR_API_KEY",
-    authDomain: "YOUR_AUTH_DOMAIN",
-    projectId: "YOUR_PROJECT_ID",
-    storageBucket: "YOUR_STORAGE_BUCKET",
-    messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-    appId: "YOUR_APP_ID"
+  apiKey: "AIzaSyBvcyjJPrNSkoiI68g8J9mxvH3NX10p2HA",
+  authDomain: "pypro-2ebfb.firebaseapp.com",
+  databaseURL: "https://pypro-2ebfb-default-rtdb.firebaseio.com",
+  projectId: "pypro-2ebfb",
+  storageBucket: "pypro-2ebfb.appspot.com",
+  messagingSenderId: "555786381036",
+  appId: "1:555786381036:web:8d4800e7d972bc01fc67c9",
+  measurementId: "G-JFTSNFGCWP"
 };
 
 firebase.initializeApp(firebaseConfig);
