@@ -20,3 +20,4 @@
     <script src="registration.js"></script>
 </body>
 </html>
+theme:Architect
